@@ -1,1 +1,1 @@
-# advanced_analitics_r_python
+# advanced_analytics_r_python
