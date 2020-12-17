@@ -1,0 +1,364 @@
+﻿Country,Province/State,Measure Names,Measure Values
+Australia,Victoria,Recovered,300
+Australia,South Australia,Recovered,30
+Australia,Queensland,Recovered,0
+Australia,,Recovered,0
+Australia,New South Wales,Recovered,720
+Australia,Victoria,Deaths,0
+Australia,South Australia,Deaths,0
+Australia,Queensland,Deaths,0
+Australia,,Deaths,0
+Australia,New South Wales,Deaths,0
+Australia,Victoria,Confirmed,1140
+Australia,South Australia,Confirmed,510
+Australia,Queensland,Confirmed,1170
+Australia,,Confirmed,120
+Australia,New South Wales,Confirmed,1320
+Belgium,,Recovered,1
+Belgium,,Deaths,0
+Belgium,,Confirmed,14
+Brazil,,Recovered,0
+Brazil,,Deaths,0
+Brazil,,Confirmed,0
+Cambodia,,Recovered,6
+Cambodia,,Deaths,0
+Cambodia,,Confirmed,22
+Canada,"Toronto, ON",Recovered,0
+Canada,Ontario,Recovered,0
+Canada,"London, ON",Recovered,60
+Canada,British Columbia,Recovered,0
+Canada,"Toronto, ON",Deaths,0
+Canada,Ontario,Deaths,0
+Canada,"London, ON",Deaths,0
+Canada,British Columbia,Deaths,0
+Canada,"Toronto, ON",Confirmed,300
+Canada,Ontario,Confirmed,150
+Canada,"London, ON",Confirmed,150
+Canada,British Columbia,Confirmed,560
+China,Zhejiang,Recovered,0
+China,Yunnan,Recovered,0
+China,Xinjiang,Recovered,0
+China,Tibet,Recovered,0
+China,Tianjin,Recovered,0
+China,Taiwan,Recovered,0
+China,Sichuan,Recovered,0
+China,Shanxi,Recovered,0
+China,Shanghai,Recovered,0
+China,Shandong,Recovered,0
+China,Shaanxi,Recovered,0
+China,Qinghai,Recovered,0
+China,Ningxia,Recovered,0
+China,Macau,Recovered,0
+China,Liaoning,Recovered,0
+China,Jilin,Recovered,0
+China,Jiangxi,Recovered,0
+China,Jiangsu,Recovered,0
+China,Inner Mongolia,Recovered,0
+China,Hunan,Recovered,0
+China,Hubei,Recovered,0
+China,Hong Kong,Recovered,0
+China,Henan,Recovered,0
+China,Heilongjiang,Recovered,0
+China,Hebei,Recovered,0
+China,Hainan,Recovered,0
+China,Guizhou,Recovered,0
+China,Guangxi,Recovered,0
+China,Guangdong,Recovered,0
+China,Gansu,Recovered,0
+China,Fujian,Recovered,0
+China,Chongqing,Recovered,0
+China,Beijing,Recovered,0
+China,Anhui,Recovered,0
+China,Zhejiang,Deaths,0
+China,Yunnan,Deaths,0
+China,Xinjiang,Deaths,0
+China,Tibet,Deaths,0
+China,Tianjin,Deaths,0
+China,Taiwan,Deaths,0
+China,Sichuan,Deaths,0
+China,Shanxi,Deaths,0
+China,Shanghai,Deaths,0
+China,Shandong,Deaths,0
+China,Shaanxi,Deaths,0
+China,Qinghai,Deaths,0
+China,Ningxia,Deaths,0
+China,Macau,Deaths,0
+China,Liaoning,Deaths,0
+China,Jilin,Deaths,0
+China,Jiangxi,Deaths,0
+China,Jiangsu,Deaths,0
+China,Inner Mongolia,Deaths,0
+China,Hunan,Deaths,0
+China,Hubei,Deaths,0
+China,Hong Kong,Deaths,0
+China,Henan,Deaths,0
+China,Heilongjiang,Deaths,0
+China,Hebei,Deaths,0
+China,Hainan,Deaths,0
+China,Guizhou,Deaths,0
+China,Guangxi,Deaths,0
+China,Guangdong,Deaths,0
+China,Gansu,Deaths,0
+China,Fujian,Deaths,0
+China,Chongqing,Deaths,0
+China,Beijing,Deaths,0
+China,Anhui,Deaths,0
+China,Zhejiang,Confirmed,104460
+China,Yunnan,Confirmed,10446
+China,Xinjiang,Confirmed,0
+China,Tibet,Confirmed,0
+China,Tianjin,Confirmed,41784
+China,Taiwan,Confirmed,10446
+China,Sichuan,Confirmed,52230
+China,Shanxi,Confirmed,10446
+China,Shanghai,Confirmed,94014
+China,Shandong,Confirmed,20892
+China,Shaanxi,Confirmed,0
+China,Qinghai,Confirmed,0
+China,Ningxia,Confirmed,10446
+China,Macau,Confirmed,10446
+China,Liaoning,Confirmed,20892
+China,Jilin,Confirmed,0
+China,Jiangxi,Confirmed,20892
+China,Jiangsu,Confirmed,10446
+China,Inner Mongolia,Confirmed,0
+China,Hunan,Confirmed,41784
+China,Hubei,Confirmed,4638024
+China,Hong Kong,Confirmed,0
+China,Henan,Confirmed,52230
+China,Heilongjiang,Confirmed,0
+China,Hebei,Confirmed,10446
+China,Hainan,Confirmed,41784
+China,Guizhou,Confirmed,10446
+China,Guangxi,Confirmed,20892
+China,Guangdong,Confirmed,271596
+China,Gansu,Confirmed,0
+China,Fujian,Confirmed,10446
+China,Chongqing,Confirmed,62676
+China,Beijing,Confirmed,146244
+China,Anhui,Confirmed,10446
+Egypt,,Recovered,0
+Egypt,,Deaths,0
+Egypt,,Confirmed,4
+Finland,,Recovered,14
+Finland,,Deaths,0
+Finland,,Confirmed,40
+France,,Recovered,342
+France,,Deaths,57
+France,,Confirmed,3534
+Germany,,Recovered,95
+Germany,Bavaria,Recovered,0
+Germany,,Deaths,0
+Germany,Bavaria,Deaths,0
+Germany,,Confirmed,4408
+Germany,Bavaria,Confirmed,380
+Hong Kong,Hong Kong,Recovered,8
+Hong Kong,Hong Kong,Deaths,14
+Hong Kong,Hong Kong,Confirmed,681
+India,,Recovered,18
+India,,Deaths,0
+India,,Confirmed,150
+Italy,,Recovered,0
+Italy,,Deaths,0
+Italy,,Confirmed,27979
+Ivory Coast,,Recovered,0
+Ivory Coast,,Deaths,0
+Ivory Coast,,Confirmed,0
+Japan,,Recovered,64246
+Japan,,Deaths,3530
+Japan,,Confirmed,417246
+Macau,Macau,Recovered,27
+Macau,Macau,Deaths,0
+Macau,Macau,Confirmed,209
+Mainland China,Zhejiang,Recovered,3894
+Mainland China,Yunnan,Recovered,331
+Mainland China,Xinjiang,Recovered,52
+Mainland China,Tibet,Recovered,6
+Mainland China,Tianjin,Recovered,227
+Mainland China,Sichuan,Recovered,1171
+Mainland China,Shanxi,Recovered,402
+Mainland China,Shanghai,Recovered,965
+Mainland China,Shandong,Recovered,1239
+Mainland China,Shaanxi,Recovered,500
+Mainland China,Qinghai,Recovered,93
+Mainland China,Ningxia,Recovered,245
+Mainland China,Liaoning,Recovered,262
+Mainland China,Jilin,Recovered,227
+Mainland China,Jiangxi,Recovered,1906
+Mainland China,Jiangsu,Recovered,1538
+Mainland China,Inner Mongolia,Recovered,77
+Mainland China,Hunan,Recovered,3564
+Mainland China,Hubei,Recovered,44863
+Mainland China,Henan,Recovered,3267
+Mainland China,Heilongjiang,Recovered,470
+Mainland China,Hebei,Recovered,747
+Mainland China,Hainan,Recovered,361
+Mainland China,Guizhou,Recovered,297
+Mainland China,Guangxi,Recovered,414
+Mainland China,Guangdong,Recovered,3389
+Mainland China,Gansu,Recovered,374
+Mainland China,Fujian,Recovered,614
+Mainland China,Chongqing,Recovered,1340
+Mainland China,Beijing,Recovered,876
+Mainland China,Anhui,Recovered,1729
+Mainland China,Zhejiang,Deaths,0
+Mainland China,Yunnan,Deaths,0
+Mainland China,Xinjiang,Deaths,6
+Mainland China,Tibet,Deaths,0
+Mainland China,Tianjin,Deaths,25
+Mainland China,Sichuan,Deaths,24
+Mainland China,Shanxi,Deaths,0
+Mainland China,Shanghai,Deaths,24
+Mainland China,Shandong,Deaths,17
+Mainland China,Shaanxi,Deaths,0
+Mainland China,Qinghai,Deaths,0
+Mainland China,Ningxia,Deaths,0
+Mainland China,Liaoning,Deaths,6
+Mainland China,Jilin,Deaths,11
+Mainland China,Jiangxi,Deaths,9
+Mainland China,Jiangsu,Deaths,0
+Mainland China,Inner Mongolia,Deaths,0
+Mainland China,Hunan,Deaths,19
+Mainland China,Hubei,Deaths,17228
+Mainland China,Henan,Deaths,126
+Mainland China,Heilongjiang,Deaths,117
+Mainland China,Hebei,Deaths,42
+Mainland China,Hainan,Deaths,48
+Mainland China,Guizhou,Deaths,13
+Mainland China,Guangxi,Deaths,16
+Mainland China,Guangdong,Deaths,19
+Mainland China,Gansu,Deaths,19
+Mainland China,Fujian,Deaths,1
+Mainland China,Chongqing,Deaths,50
+Mainland China,Beijing,Deaths,42
+Mainland China,Anhui,Deaths,46
+Mainland China,Zhejiang,Confirmed,19582
+Mainland China,Yunnan,Confirmed,2720
+Mainland China,Xinjiang,Confirmed,903
+Mainland China,Tibet,Confirmed,20
+Mainland China,Tianjin,Confirmed,1734
+Mainland China,Sichuan,Confirmed,7319
+Mainland China,Shanxi,Confirmed,1985
+Mainland China,Shanghai,Confirmed,5373
+Mainland China,Shandong,Confirmed,7932
+Mainland China,Shaanxi,Confirmed,3676
+Mainland China,Qinghai,Confirmed,324
+Mainland China,Ningxia,Confirmed,929
+Mainland China,Liaoning,Confirmed,1976
+Mainland China,Jilin,Confirmed,1243
+Mainland China,Jiangxi,Confirmed,13055
+Mainland China,Jiangsu,Confirmed,8602
+Mainland China,Inner Mongolia,Confirmed,999
+Mainland China,Hunan,Confirmed,15343
+Mainland China,Hubei,Confirmed,589477
+Mainland China,Henan,Confirmed,18148
+Mainland China,Heilongjiang,Confirmed,5405
+Mainland China,Hebei,Confirmed,3916
+Mainland China,Hainan,Confirmed,2421
+Mainland China,Guizhou,Confirmed,1805
+Mainland China,Guangxi,Confirmed,3707
+Mainland China,Guangdong,Confirmed,20058
+Mainland China,Gansu,Confirmed,1424
+Mainland China,Fujian,Confirmed,4613
+Mainland China,Chongqing,Confirmed,8702
+Mainland China,Beijing,Confirmed,5939
+Mainland China,Anhui,Confirmed,13621
+Malaysia,,Recovered,629
+Malaysia,,Deaths,0
+Malaysia,,Confirmed,5151
+Mexico,,Recovered,0
+Mexico,,Deaths,0
+Mexico,,Confirmed,0
+Nepal,,Recovered,6
+Nepal,,Deaths,0
+Nepal,,Confirmed,24
+Others,Diamond Princess cruise ship,Recovered,0
+Others,Cruise Ship,Recovered,0
+Others,Diamond Princess cruise ship,Deaths,0
+Others,Cruise Ship,Deaths,0
+Others,Diamond Princess cruise ship,Confirmed,2039
+Others,Cruise Ship,Confirmed,122
+Philippines,,Recovered,18
+Philippines,,Deaths,51
+Philippines,,Confirmed,141
+Russia,,Recovered,24
+Russia,,Deaths,0
+Russia,,Confirmed,72
+Singapore,,Recovered,10980
+Singapore,,Deaths,0
+Singapore,,Confirmed,71730
+South Korea,,Recovered,59094
+South Korea,,Deaths,0
+South Korea,,Confirmed,416472
+Spain,,Recovered,78
+Spain,,Deaths,0
+Spain,,Confirmed,351
+Sri Lanka,,Recovered,10
+Sri Lanka,,Deaths,0
+Sri Lanka,,Confirmed,22
+Sweden,,Recovered,0
+Sweden,,Deaths,0
+Sweden,,Confirmed,36
+Taiwan,Taiwan,Recovered,16
+Taiwan,Taiwan,Deaths,2
+Taiwan,Taiwan,Confirmed,320
+Thailand,,Recovered,6864
+Thailand,,Deaths,0
+Thailand,,Confirmed,22659
+UK,,Recovered,20
+UK,,Deaths,0
+UK,,Confirmed,93
+United Arab Emirates,,Recovered,300
+United Arab Emirates,,Deaths,0
+United Arab Emirates,,Confirmed,2520
+US,Washington,Recovered,0
+US,"Tempe, AZ",Recovered,0
+US,"Seattle, WA",Recovered,9
+US,"Santa Clara, CA",Recovered,0
+US,"San Diego County, CA",Recovered,0
+US,"San Benito, CA",Recovered,0
+US,"San Antonio, TX",Recovered,0
+US,"Orange, CA",Recovered,0
+US,"Madison, WI",Recovered,0
+US,"Los Angeles, CA",Recovered,0
+US,Illinois,Recovered,0
+US,"Chicago, IL",Recovered,18
+US,Chicago,Recovered,0
+US,California,Recovered,0
+US,"Boston, MA",Recovered,0
+US,Arizona,Recovered,0
+US,Washington,Deaths,0
+US,"Tempe, AZ",Deaths,0
+US,"Seattle, WA",Deaths,0
+US,"Santa Clara, CA",Deaths,0
+US,"San Diego County, CA",Deaths,0
+US,"San Benito, CA",Deaths,0
+US,"San Antonio, TX",Deaths,0
+US,"Orange, CA",Deaths,0
+US,"Madison, WI",Deaths,0
+US,"Los Angeles, CA",Deaths,0
+US,Illinois,Deaths,0
+US,"Chicago, IL",Deaths,0
+US,Chicago,Deaths,0
+US,California,Deaths,0
+US,"Boston, MA",Deaths,0
+US,Arizona,Deaths,0
+US,Washington,Confirmed,10
+US,"Tempe, AZ",Confirmed,17
+US,"Seattle, WA",Confirmed,17
+US,"Santa Clara, CA",Confirmed,33
+US,"San Diego County, CA",Confirmed,12
+US,"San Benito, CA",Confirmed,30
+US,"San Antonio, TX",Confirmed,5
+US,"Orange, CA",Confirmed,17
+US,"Madison, WI",Confirmed,12
+US,"Los Angeles, CA",Confirmed,17
+US,Illinois,Confirmed,9
+US,"Chicago, IL",Confirmed,34
+US,Chicago,Confirmed,1
+US,California,Confirmed,13
+US,"Boston, MA",Confirmed,17
+US,Arizona,Confirmed,6
+Vietnam,,Recovered,855
+Vietnam,,Deaths,0
+Vietnam,,Confirmed,3375
